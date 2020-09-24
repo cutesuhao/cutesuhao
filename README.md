@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+👨‍💻‍
+- A gopher
+- A pentester
+
+🧗‍♂️
+- I'm learning metasploit.
+- I'm learning k8s.
+
+🔗
+欢迎关注我的微信公众号：
+初识Go与云原生
 <!--
 **cutesuhao/cutesuhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
