@@ -11,6 +11,12 @@
 🔗
 欢迎关注我的微信公众号：
 初识Go与云原生
+
+---
+hello我又回来啦！国庆真是一眨眼就过去了！回来还有好多事情要做哦！不要气馁继续加油哦！
+更新于2020/10/10
+
+
 <!--
 **cutesuhao/cutesuhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
